@@ -72,7 +72,12 @@ data = {
 {
     "id": "P66018",
     "handle": "FixedHarbinger",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:01:37.301057"
+        }
+    ]
 },
 {
     "id": "P93773",
