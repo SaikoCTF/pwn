@@ -348,3 +348,57 @@ data = {
 },
     ]
 }
+{
+    "id": "P65973",
+    "handle": "ThunderingBerserker",
+    "challenges": []
+},
+{
+    "id": "P65993",
+    "handle": "WoodenBattlemind",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:26:25.729969"
+        }
+    ]
+},
+{
+    "id": "P66018",
+    "handle": "FixedHarbinger",
+    "challenges": [
+        {
+            "id": 3,
+            "time": "0:45:40.766584"
+        },
+        {
+            "id": 2,
+            "time": "0:01:37.301057"
+        },
+        {
+            "id": 5,
+            "time": "0:22:43.674579"
+        },
+        {
+            "id": 4,
+            "time": "0:26:41.244526"
+        }
+    ]
+},
+{
+    "id": "P74241",
+    "handle": "HaplessSeer",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:41:30.389351"
+        }
+    ]
+},
+{
+    "id": "P93773",
+    "handle": "TacitSniper",
+    "challenges": []
+},
+    ]
+}
