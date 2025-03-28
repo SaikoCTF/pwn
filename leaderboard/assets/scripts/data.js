@@ -54,5 +54,15 @@ data = {
     ],
     "participants": [
 
+{
+    "id": "P57653",
+    "handle": "JazzyPirate",
+    "challenges": []
+},
+{
+    "id": "P65973",
+    "handle": "ThunderingBerserker",
+    "challenges": []
+},
     ]
 }
