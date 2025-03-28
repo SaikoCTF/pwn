@@ -120,6 +120,16 @@ data = {
     ]
 },
 {
+    "id": "P33351",
+    "handle": "CrazySniper",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:45:08.331732"
+        }
+    ]
+},
+{
     "id": "P36231",
     "handle": "WhiteHealer",
     "challenges": [
