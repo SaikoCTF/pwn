@@ -173,7 +173,24 @@ data = {
         }
     ]
 },
-,
+{
+    "id": "P36231",
+    "handle": "WhiteHealer",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:10:38.122973"
+        },
+        {
+            "id": 2,
+            "time": "0:03:23.240306"
+        },
+        {
+            "id": 4,
+            "time": "0:26:41.928882"
+        }
+    ]
+},
 {
     "id": "P41219",
     "handle": "ImperfectInfiltrator",
