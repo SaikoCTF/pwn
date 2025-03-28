@@ -56,7 +56,7 @@ data = {
 
 {
     "id": "P12835",
-    "handle": "ForgetfulLord",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 1,
@@ -70,7 +70,7 @@ data = {
 },
 {
     "id": "P16985",
-    "handle": "EntertainingPirate",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 1,
@@ -84,7 +84,7 @@ data = {
 },
 {
     "id": "P26878",
-    "handle": "InquisitiveHarbinger",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 1,
@@ -98,12 +98,12 @@ data = {
 },
 {
     "id": "P33135",
-    "handle": "GoofyBattlemind",
+    "handle": "Unknown",
     "challenges": []
 },
 {
     "id": "P33326",
-    "handle": "ProfuseNavigator",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 6,
@@ -141,7 +141,7 @@ data = {
 },
 {
     "id": "P33351",
-    "handle": "CrazySniper",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 1,
@@ -155,7 +155,7 @@ data = {
 },
 {
     "id": "P36231",
-    "handle": "WhiteHealer",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 1,
@@ -169,7 +169,7 @@ data = {
 },
 {
     "id": "P41219",
-    "handle": "ImperfectInfiltrator",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 6,
@@ -215,12 +215,12 @@ data = {
 },
 {
     "id": "P57653",
-    "handle": "JazzyPirate",
+    "handle": "Unknown",
     "challenges": []
 },
 {
     "id": "P57655",
-    "handle": "SneakyBrawler",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 1,
@@ -234,12 +234,12 @@ data = {
 },
 {
     "id": "P65973",
-    "handle": "ThunderingBerserker",
+    "handle": "Unknown",
     "challenges": []
 },
 {
     "id": "P65993",
-    "handle": "WoodenBattlemind",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 1,
@@ -257,7 +257,7 @@ data = {
 },
 {
     "id": "P66018",
-    "handle": "FixedHarbinger",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 3,
@@ -266,6 +266,10 @@ data = {
         {
             "id": 2,
             "time": "0:01:37.301057"
+        },
+        {
+            "id": 7,
+            "time": "0:20:37.748209"
         },
         {
             "id": 5,
@@ -279,7 +283,7 @@ data = {
 },
 {
     "id": "P74172",
-    "handle": "JazzySamurai",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 1,
@@ -289,7 +293,7 @@ data = {
 },
 {
     "id": "P74241",
-    "handle": "HaplessSeer",
+    "handle": "Unknown",
     "challenges": [
         {
             "id": 1,
@@ -299,7 +303,7 @@ data = {
 },
 {
     "id": "P93773",
-    "handle": "TacitSniper",
+    "handle": "Unknown",
     "challenges": []
 },
     ]
