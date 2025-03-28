@@ -272,6 +272,10 @@ data = {
     "handle": "SneakyBrawler",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:15:54.486285"
+        },
+        {
             "id": 1,
             "time": "0:30:48.895960"
         },
