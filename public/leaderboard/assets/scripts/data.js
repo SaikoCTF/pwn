@@ -74,5 +74,10 @@ data = {
     "handle": "FixedHarbinger",
     "challenges": []
 },
+{
+    "id": "P93773",
+    "handle": "TacitSniper",
+    "challenges": []
+},
     ]
 }
