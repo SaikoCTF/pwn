@@ -60,6 +60,16 @@ data = {
     "challenges": []
 },
 {
+    "id": "P33326",
+    "handle": "ProfuseNavigator",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:07:28.606716"
+        }
+    ]
+},
+{
     "id": "P57653",
     "handle": "JazzyPirate",
     "challenges": []
