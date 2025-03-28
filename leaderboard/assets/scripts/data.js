@@ -108,6 +108,16 @@ data = {
     ]
 },
 {
+    "id": "P36231",
+    "handle": "WhiteHealer",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:10:38.122973"
+        }
+    ]
+},
+{
     "id": "P41219",
     "handle": "ImperfectInfiltrator",
     "challenges": [
