@@ -106,6 +106,10 @@ data = {
     "handle": "ProfuseNavigator",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:17:25.617083"
+        },
+        {
             "id": 1,
             "time": "0:07:28.606716"
         },
