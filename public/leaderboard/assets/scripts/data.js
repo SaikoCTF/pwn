@@ -69,5 +69,10 @@ data = {
     "handle": "ThunderingBerserker",
     "challenges": []
 },
+{
+    "id": "P66018",
+    "handle": "FixedHarbinger",
+    "challenges": []
+},
     ]
 }
