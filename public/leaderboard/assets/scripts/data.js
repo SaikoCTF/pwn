@@ -523,5 +523,10 @@ data = {
         }
     ]
 },
+{
+    "id": "P98833",
+    "handle": "AwfulCleric",
+    "challenges": []
+},
     ]
 }
