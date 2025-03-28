@@ -148,6 +148,10 @@ data = {
     "handle": "CrazySniper",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:09:02.292473"
+        },
+        {
             "id": 1,
             "time": "0:45:08.331732"
         },
