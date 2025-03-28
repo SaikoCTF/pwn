@@ -55,30 +55,6 @@ data = {
     "participants": [
 
 {
-    "id": "P12835",
-    "handle": "ForgetfulLord",
-    "challenges": [
-        {
-            "id": 1,
-            "time": "0:07:14.946767"
-        },
-        {
-            "id": 2,
-            "time": "0:04:47.688884"
-        }
-    ]
-},
-{
-    "id": "P16985",
-    "handle": "EntertainingPirate",
-    "challenges": [
-        {
-            "id": 1,
-            "time": "0:28:22.634384"
-        }
-    ]
-},
-{
     "id": "P26878",
     "handle": "InquisitiveHarbinger",
     "challenges": [
@@ -120,6 +96,20 @@ data = {
     ]
 },
 {
+    "id": "P12835",
+    "handle": "ForgetfulLord",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:07:14.946767"
+        },
+        {
+            "id": 2,
+            "time": "0:04:47.688884"
+        }
+    ]
+},
+{
     "id": "P33351",
     "handle": "CrazySniper",
     "challenges": [
@@ -140,9 +130,41 @@ data = {
     ]
 },
 {
+    "id": "P16985",
+    "handle": "EntertainingPirate",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:28:22.634384"
+        },
+        {
+            "id": 2,
+            "time": "0:07:02.305493"
+        }
+    ]
+},
+{
+    "id": "P26878",
+    "handle": "InquisitiveHarbinger",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:06:09.950671"
+        },
+        {
+            "id": 2,
+            "time": "0:04:17.615407"
+        }
+    ]
+},
+{
     "id": "P41219",
     "handle": "ImperfectInfiltrator",
     "challenges": [
+        {
+            "id": 6,
+            "time": "0:05:22.900738"
+        },
         {
             "id": 1,
             "time": "0:24:17.833906"
@@ -166,9 +188,36 @@ data = {
     ]
 },
 {
+    "id": "P33135",
+    "handle": "GoofyBattlemind",
+    "challenges": []
+},
+{
     "id": "P57653",
     "handle": "JazzyPirate",
     "challenges": []
+},
+{
+    "id": "P33326",
+    "handle": "ProfuseNavigator",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:07:28.606716"
+        },
+        {
+            "id": 3,
+            "time": "0:16:11.288206"
+        },
+        {
+            "id": 2,
+            "time": "0:00:38.908649"
+        },
+        {
+            "id": 4,
+            "time": "0:05:19.849341"
+        }
+    ]
 },
 {
     "id": "P57655",
@@ -181,9 +230,29 @@ data = {
     ]
 },
 {
+    "id": "P33351",
+    "handle": "CrazySniper",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:45:08.331732"
+        }
+    ]
+},
+{
     "id": "P65973",
     "handle": "ThunderingBerserker",
     "challenges": []
+},
+{
+    "id": "P36231",
+    "handle": "WhiteHealer",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:10:38.122973"
+        }
+    ]
 },
 {
     "id": "P65993",
@@ -192,6 +261,36 @@ data = {
         {
             "id": 1,
             "time": "0:26:25.729969"
+        }
+    ]
+},
+{
+    "id": "P41219",
+    "handle": "ImperfectInfiltrator",
+    "challenges": [
+        {
+            "id": 6,
+            "time": "0:05:22.900738"
+        },
+        {
+            "id": 1,
+            "time": "0:24:17.833906"
+        },
+        {
+            "id": 3,
+            "time": "0:05:21.139688"
+        },
+        {
+            "id": 2,
+            "time": "0:03:59.658560"
+        },
+        {
+            "id": 5,
+            "time": "0:01:35.319296"
+        },
+        {
+            "id": 4,
+            "time": "0:05:17.693429"
         }
     ]
 },
@@ -218,12 +317,27 @@ data = {
     ]
 },
 {
+    "id": "P57653",
+    "handle": "JazzyPirate",
+    "challenges": []
+},
+{
     "id": "P74241",
     "handle": "HaplessSeer",
     "challenges": [
         {
             "id": 1,
             "time": "0:41:30.389351"
+        }
+    ]
+},
+{
+    "id": "P57655",
+    "handle": "SneakyBrawler",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:30:48.895960"
         }
     ]
 },
