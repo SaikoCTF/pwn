@@ -360,6 +360,11 @@ data = {
     ]
 },
 {
+    "id": "P49542",
+    "handle": "InquisitiveDoomlord",
+    "challenges": []
+},
+{
     "id": "P52999",
     "handle": "SteelPirate",
     "challenges": []
