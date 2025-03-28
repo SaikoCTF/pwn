@@ -55,16 +55,6 @@ data = {
     "participants": [
 
 {
-    "id": "P74241",
-    "handle": "HaplessSeer",
-    "challenges": [
-        {
-            "id": 1,
-            "time": "0:41:30.389351"
-        }
-    ]
-},
-{
     "id": "P12835",
     "handle": "ForgetfulLord",
     "challenges": [
@@ -82,23 +72,6 @@ data = {
         }
     ]
 },
-{
-    "id": "P82423",
-    "handle": "QuizzicalPriest",
-    "challenges": [
-        {
-            "id": 1,
-            "time": "0:08:34.184051"
-        }
-    ]
-},
-{
-    "id": "P93773",
-    "handle": "TacitSniper",
-    "challenges": []
-},
-    ]
-}
 {
     "id": "P16985",
     "handle": "EntertainingPirate",
@@ -420,6 +393,16 @@ data = {
     "id": "P93773",
     "handle": "TacitSniper",
     "challenges": []
+},
+{
+    "id": "P98661",
+    "handle": "SupremeDeathknight",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:11:48.506902"
+        }
+    ]
 },
     ]
 }
