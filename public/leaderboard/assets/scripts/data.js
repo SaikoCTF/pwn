@@ -84,6 +84,16 @@ data = {
     ]
 },
 {
+    "id": "P41219",
+    "handle": "ImperfectInfiltrator",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:24:17.833906"
+        }
+    ]
+},
+{
     "id": "P57653",
     "handle": "JazzyPirate",
     "challenges": []
