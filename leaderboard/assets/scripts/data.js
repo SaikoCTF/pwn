@@ -143,7 +143,24 @@ data = {
         }
     ]
 },
-,
+{
+    "id": "P33351",
+    "handle": "CrazySniper",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:45:08.331732"
+        },
+        {
+            "id": 2,
+            "time": "0:11:19.540333"
+        },
+        {
+            "id": 5,
+            "time": "0:13:02.134626"
+        }
+    ]
+},
 {
     "id": "P36231",
     "handle": "WhiteHealer",
