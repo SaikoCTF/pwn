@@ -250,7 +250,12 @@ data = {
 {
     "id": "P41396",
     "handle": "IncandescentDeathknight",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:03:17.519052"
+        }
+    ]
 },
 {
     "id": "P49417",
