@@ -643,6 +643,11 @@ data = {
     ]
 },
 {
+    "id": "P82363",
+    "handle": "ToughBattlemage",
+    "challenges": []
+},
+{
     "id": "P82376",
     "handle": "TacitInfiltrator",
     "challenges": []
