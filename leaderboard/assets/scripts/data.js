@@ -669,7 +669,12 @@ data = {
 {
     "id": "P98833",
     "handle": "AwfulCleric",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 3,
+            "time": "0:21:50.458048"
+        }
+    ]
 },
     ]
 }
