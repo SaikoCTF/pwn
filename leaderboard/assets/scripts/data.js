@@ -741,6 +741,10 @@ data = {
     "handle": "DifficultParagon",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:06:59.473637"
+        },
+        {
             "id": 1,
             "time": "0:11:49.900863"
         },
