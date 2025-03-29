@@ -2121,3 +2121,93 @@ data = {
 },
     ]
 }
+{
+    "id": "P82331",
+    "handle": "FearlessSpellsword",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:20:54.317363"
+        },
+        {
+            "id": 2,
+            "time": "0:07:11.236203"
+        }
+    ]
+},
+{
+    "id": "P82423",
+    "handle": "QuizzicalPriest",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:08:34.184051"
+        },
+        {
+            "id": 3,
+            "time": "0:23:48.641473"
+        },
+        {
+            "id": 2,
+            "time": "0:00:57.757502"
+        }
+    ]
+},
+{
+    "id": "P93773",
+    "handle": "TacitSniper",
+    "challenges": []
+},
+{
+    "id": "P98628",
+    "handle": "JazzyBerserker",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:17:23.560656"
+        }
+    ]
+},
+{
+    "id": "P98661",
+    "handle": "SupremeDeathknight",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:11:48.506902"
+        },
+        {
+            "id": 3,
+            "time": "0:59:23.354744"
+        },
+        {
+            "id": 2,
+            "time": "0:02:59.325682"
+        },
+        {
+            "id": 5,
+            "time": "0:05:32.025483"
+        },
+        {
+            "id": 4,
+            "time": "0:05:32.053384"
+        }
+    ]
+},
+{
+    "id": "P98766",
+    "handle": "DifficultParagon",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:11:49.900863"
+        }
+    ]
+},
+{
+    "id": "P98833",
+    "handle": "AwfulCleric",
+    "challenges": []
+},
+    ]
+}
