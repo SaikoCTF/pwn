@@ -130,20 +130,7 @@ data = {
         }
     ]
 },
-{
-    "id": "P26878",
-    "handle": "InquisitiveHarbinger",
-    "challenges": [
-        {
-            "id": 1,
-            "time": "0:06:09.950671"
-        },
-        {
-            "id": 2,
-            "time": "0:04:17.615407"
-        }
-    ]
-},
+,
 {
     "id": "P28338",
     "handle": "PracticalDoomlord",
@@ -467,32 +454,7 @@ data = {
         }
     ]
 },
-{
-    "id": "P66018",
-    "handle": "FixedHarbinger",
-    "challenges": [
-        {
-            "id": 3,
-            "time": "0:45:40.766584"
-        },
-        {
-            "id": 2,
-            "time": "0:01:37.301057"
-        },
-        {
-            "id": 7,
-            "time": "0:20:37.748209"
-        },
-        {
-            "id": 5,
-            "time": "0:22:43.674579"
-        },
-        {
-            "id": 4,
-            "time": "0:26:41.244526"
-        }
-    ]
-},
+,
 {
     "id": "P74172",
     "handle": "JazzySamurai",
