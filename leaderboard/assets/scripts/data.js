@@ -56,7 +56,7 @@ data = {
 
 {
     "id": "P12835",
-    "handle": "Unknown",
+    "handle": "ForgetfulLord",
     "challenges": [
         {
             "id": 1,
@@ -78,7 +78,7 @@ data = {
 },
 {
     "id": "P12845",
-    "handle": "Unknown",
+    "handle": "TacitAgent",
     "challenges": [
         {
             "id": 1,
@@ -96,7 +96,7 @@ data = {
 },
 {
     "id": "P16985",
-    "handle": "Unknown",
+    "handle": "EntertainingPirate",
     "challenges": [
         {
             "id": 1,
@@ -110,7 +110,7 @@ data = {
 },
 {
     "id": "P23332",
-    "handle": "Unknown",
+    "handle": "NonstopSniper",
     "challenges": [
         {
             "id": 6,
@@ -144,7 +144,7 @@ data = {
 },
 {
     "id": "P26878",
-    "handle": "Unknown",
+    "handle": "InquisitiveHarbinger",
     "challenges": [
         {
             "id": 1,
@@ -158,7 +158,7 @@ data = {
 },
 {
     "id": "P28338",
-    "handle": "Unknown",
+    "handle": "PracticalDoomlord",
     "challenges": [
         {
             "id": 1,
@@ -172,7 +172,7 @@ data = {
 },
 {
     "id": "P30449",
-    "handle": "Unknown",
+    "handle": "AttractiveMercenary",
     "challenges": [
         {
             "id": 1,
@@ -199,6 +199,10 @@ data = {
             "time": "0:08:32.577013"
         },
         {
+            "id": 9,
+            "time": "0:15:13.348124"
+        },
+        {
             "id": 4,
             "time": "0:09:05.489959"
         }
@@ -206,12 +210,12 @@ data = {
 },
 {
     "id": "P33135",
-    "handle": "Unknown",
+    "handle": "GoofyBattlemind",
     "challenges": []
 },
 {
     "id": "P33326",
-    "handle": "Unknown",
+    "handle": "ProfuseNavigator",
     "challenges": [
         {
             "id": 6,
@@ -257,7 +261,7 @@ data = {
 },
 {
     "id": "P33351",
-    "handle": "Unknown",
+    "handle": "CrazySniper",
     "challenges": [
         {
             "id": 6,
@@ -291,7 +295,7 @@ data = {
 },
 {
     "id": "P36231",
-    "handle": "Unknown",
+    "handle": "WhiteHealer",
     "challenges": [
         {
             "id": 6,
@@ -317,7 +321,7 @@ data = {
 },
 {
     "id": "P41219",
-    "handle": "Unknown",
+    "handle": "ImperfectInfiltrator",
     "challenges": [
         {
             "id": 6,
@@ -363,7 +367,7 @@ data = {
 },
 {
     "id": "P41396",
-    "handle": "Unknown",
+    "handle": "IncandescentDeathknight",
     "challenges": [
         {
             "id": 2,
@@ -377,7 +381,7 @@ data = {
 },
 {
     "id": "P49167",
-    "handle": "Unknown",
+    "handle": "FlippantPriest",
     "challenges": [
         {
             "id": 1,
@@ -391,7 +395,7 @@ data = {
 },
 {
     "id": "P49417",
-    "handle": "Unknown",
+    "handle": "RoughSkymage",
     "challenges": [
         {
             "id": 6,
@@ -433,22 +437,22 @@ data = {
 },
 {
     "id": "P49542",
-    "handle": "Unknown",
+    "handle": "InquisitiveDoomlord",
     "challenges": []
 },
 {
     "id": "P52999",
-    "handle": "Unknown",
+    "handle": "SteelPirate",
     "challenges": []
 },
 {
     "id": "P57653",
-    "handle": "Unknown",
+    "handle": "JazzyPirate",
     "challenges": []
 },
 {
     "id": "P57655",
-    "handle": "Unknown",
+    "handle": "SneakyBrawler",
     "challenges": [
         {
             "id": 6,
@@ -482,12 +486,12 @@ data = {
 },
 {
     "id": "P57746",
-    "handle": "Unknown",
+    "handle": "SneakyLord",
     "challenges": []
 },
 {
     "id": "P57806",
-    "handle": "Unknown",
+    "handle": "ScaryPirate",
     "challenges": [
         {
             "id": 1,
@@ -501,17 +505,17 @@ data = {
 },
 {
     "id": "P58189",
-    "handle": "Unknown",
+    "handle": "SulkyStormlord",
     "challenges": []
 },
 {
     "id": "P65973",
-    "handle": "Unknown",
+    "handle": "ThunderingBerserker",
     "challenges": []
 },
 {
     "id": "P65993",
-    "handle": "Unknown",
+    "handle": "WoodenBattlemind",
     "challenges": [
         {
             "id": 6,
@@ -541,7 +545,7 @@ data = {
 },
 {
     "id": "P66018",
-    "handle": "Unknown",
+    "handle": "FixedHarbinger",
     "challenges": [
         {
             "id": 3,
@@ -571,12 +575,12 @@ data = {
 },
 {
     "id": "P66046",
-    "handle": "Unknown",
+    "handle": "GlamorousSoulguard",
     "challenges": []
 },
 {
     "id": "P74172",
-    "handle": "Unknown",
+    "handle": "JazzySamurai",
     "challenges": [
         {
             "id": 1,
@@ -586,7 +590,7 @@ data = {
 },
 {
     "id": "P74241",
-    "handle": "Unknown",
+    "handle": "HaplessSeer",
     "challenges": [
         {
             "id": 1,
@@ -596,7 +600,7 @@ data = {
 },
 {
     "id": "P82331",
-    "handle": "Unknown",
+    "handle": "FearlessSpellsword",
     "challenges": [
         {
             "id": 1,
@@ -610,12 +614,12 @@ data = {
 },
 {
     "id": "P82376",
-    "handle": "Unknown",
+    "handle": "TacitInfiltrator",
     "challenges": []
 },
 {
     "id": "P82423",
-    "handle": "Unknown",
+    "handle": "QuizzicalPriest",
     "challenges": [
         {
             "id": 1,
@@ -633,7 +637,7 @@ data = {
 },
 {
     "id": "P92631",
-    "handle": "Unknown",
+    "handle": "SteelWindwalker",
     "challenges": [
         {
             "id": 3,
@@ -647,12 +651,12 @@ data = {
 },
 {
     "id": "P93773",
-    "handle": "Unknown",
+    "handle": "TacitSniper",
     "challenges": []
 },
 {
     "id": "P98628",
-    "handle": "Unknown",
+    "handle": "JazzyBerserker",
     "challenges": [
         {
             "id": 1,
@@ -662,7 +666,7 @@ data = {
 },
 {
     "id": "P98661",
-    "handle": "Unknown",
+    "handle": "SupremeDeathknight",
     "challenges": [
         {
             "id": 1,
@@ -688,7 +692,7 @@ data = {
 },
 {
     "id": "P98766",
-    "handle": "Unknown",
+    "handle": "DifficultParagon",
     "challenges": [
         {
             "id": 1,
@@ -698,7 +702,7 @@ data = {
 },
 {
     "id": "P98833",
-    "handle": "Unknown",
+    "handle": "AwfulCleric",
     "challenges": [
         {
             "id": 3,
