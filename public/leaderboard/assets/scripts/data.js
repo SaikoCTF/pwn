@@ -528,7 +528,12 @@ data = {
 {
     "id": "P65973",
     "handle": "ThunderingBerserker",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:01:40.308367"
+        }
+    ]
 },
 {
     "id": "P65993",
