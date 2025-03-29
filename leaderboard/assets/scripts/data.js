@@ -109,6 +109,16 @@ data = {
     ]
 },
 {
+    "id": "P23332",
+    "handle": "NonstopSniper",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:13:10.018841"
+        }
+    ]
+},
+{
     "id": "P26878",
     "handle": "InquisitiveHarbinger",
     "challenges": [
