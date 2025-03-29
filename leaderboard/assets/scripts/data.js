@@ -533,7 +533,16 @@ data = {
     "handle": "SulkyStormlord",
     "challenges": []
 },
-,
+{
+    "id": "P65973",
+    "handle": "ThunderingBerserker",
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:01:40.308367"
+        }
+    ]
+},
 {
     "id": "P65993",
     "handle": "WoodenBattlemind",
