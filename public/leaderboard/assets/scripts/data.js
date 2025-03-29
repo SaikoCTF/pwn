@@ -387,6 +387,10 @@ data = {
     "handle": "IncandescentDeathknight",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:03:15.873271"
+        },
+        {
             "id": 2,
             "time": "0:03:17.519052"
         },
