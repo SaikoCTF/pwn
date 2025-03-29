@@ -130,7 +130,20 @@ data = {
         }
     ]
 },
-,
+{
+    "id": "P26878",
+    "handle": "InquisitiveHarbinger",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:06:09.950671"
+        },
+        {
+            "id": 2,
+            "time": "0:04:17.615407"
+        }
+    ]
+},
 {
     "id": "P28338",
     "handle": "PracticalDoomlord",
@@ -454,7 +467,36 @@ data = {
         }
     ]
 },
-,
+{
+    "id": "P66018",
+    "handle": "FixedHarbinger",
+    "challenges": [
+        {
+            "id": 3,
+            "time": "0:45:40.674584"
+        },
+        {
+            "id": 2,
+            "time": "0:01:37.392057"
+        },
+        {
+            "id": 7,
+            "time": "0:20:38.153209"
+        },
+        {
+            "id": 5,
+            "time": "0:22:44.071579"
+        },
+        {
+            "id": 10,
+            "time": "0:45:58.759505"
+        },
+        {
+            "id": 4,
+            "time": "0:26:40.991526"
+        }
+    ]
+},
 {
     "id": "P74172",
     "handle": "JazzySamurai",
