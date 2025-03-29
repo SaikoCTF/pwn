@@ -450,6 +450,10 @@ data = {
     "handle": "WoodenBattlemind",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:07:22.525693"
+        },
+        {
             "id": 1,
             "time": "0:26:25.729969"
         },
