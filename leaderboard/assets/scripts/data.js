@@ -113,6 +113,10 @@ data = {
     "handle": "NonstopSniper",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:02:41.699545"
+        },
+        {
             "id": 1,
             "time": "0:13:10.018841"
         },
