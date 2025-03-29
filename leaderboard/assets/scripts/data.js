@@ -602,6 +602,10 @@ data = {
     "handle": "SteelWindwalker",
     "challenges": [
         {
+            "id": 3,
+            "time": "0:13:19.175343"
+        },
+        {
             "id": 2,
             "time": "0:02:07.167944"
         }
