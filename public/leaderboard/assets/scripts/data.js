@@ -658,6 +658,16 @@ data = {
     ]
 },
 {
+    "id": "P90692",
+    "handle": "AccurateWarrior",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:06:10.608818"
+        }
+    ]
+},
+{
     "id": "P92631",
     "handle": "SteelWindwalker",
     "challenges": [
