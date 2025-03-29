@@ -685,6 +685,10 @@ data = {
     "handle": "AccurateWarrior",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:10:53.460311"
+        },
+        {
             "id": 1,
             "time": "0:06:10.608818"
         },
